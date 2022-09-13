@@ -10,10 +10,10 @@
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white)
 
-### Portfolios
+### Portfolio
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@sinclairr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/sinclairr08/portfolio)
+[![Projects](https://img.shields.io/badge/Projects-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/sinclairr08/project-descriptions)
 
 
 <!-- ![sinclairr08 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinclairr08&layout=compact) -->
