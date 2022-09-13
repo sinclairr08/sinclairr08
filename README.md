@@ -1,16 +1,19 @@
-### Hi there 👋
+### About Me
 
-<!--
-**Sinclairr08/Sinclairr08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am a developer who likes to create and improve
 
-Here are some ideas to get you started:
+### Tech Stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white)
+
+### Portfolios
+
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@sinclairr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/sinclairr08/portfolio)
+
+
+<!-- ![sinclairr08 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinclairr08&layout=compact) -->
