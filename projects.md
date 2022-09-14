@@ -44,7 +44,7 @@
 
 ## ⚙ 기타
 
-### university-courses ([repo](<(https://github.com/sinclairr08/university-courses)>))
+### university-courses ([repo](https://github.com/sinclairr08/university-courses))
 
 - 대학교 시절 수강했던 과목들의 과제 코드를 정리해 둔 저장소입니다. 컴퓨터 기초에 관한 다양한 과목을 수강했습니다.
 
