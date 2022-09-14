@@ -1,6 +1,6 @@
 ### About Me
 
- I am a developer who likes to create and improve
+I am a developer who likes to create and improve
 
 ### Tech Stacks
 
@@ -13,7 +13,6 @@
 ### Portfolio
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@sinclairr)
-[![Projects](https://img.shields.io/badge/Projects-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/sinclairr08/project-descriptions)
-
+[![Projects](https://img.shields.io/badge/Projects-181717?style=flat-square&logo=GitHub&logoColor=white)](projects.md)
 
 <!-- ![sinclairr08 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinclairr08&layout=compact) -->
