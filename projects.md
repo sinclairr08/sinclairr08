@@ -9,13 +9,16 @@
 - 개발 기간: 2022. 07
 - 기술 스택: Javascript
 - HTML, CSS, JS 만을 이용해 개발한 파일 비교 페이지입니다. 파일 정리를 하던 도중 비슷하거나 같은 이름의 파일을 구분하기 위해 개발했습니다.
+- 파일의 각 줄을 비교해 같은 줄과 다른 줄을 색상으로 표시하는 간단한 기능을 제공합니다.
 
 ### reservation-site ([repo](https://github.com/2022-Job-Study/reservation-site), [page](https://reservation-site.vercel.app/))
 
 - 개발 기간: 2022.03 - 2022.08
-- 기술 스택: Next.js
+- 기술 스택: Next.js, Prisma, PlanetScale
 - Next.js를 이용해 팀 프로젝트로 진행한 예약 사이트입니다. Vercel을 이용해 serverless 환경에서 배포했습니다.
-- 식당 등록, 예약, 프로필 관리 등을 수행할 수 있고, OAuth (카카오, 네이버)를 통해 로그인하거나 Guest 모드로 들어가 볼 수 있습니다.
+- 가게 등록, 예약 및 관리 등을 수행할 수 있고, OAuth (카카오, 네이버)를 통해 로그인하거나 Guest 모드로 구경해 볼 수 있습니다.
+- 자세한 사용 방법은 해당 저장소의 README를 참고하시기 바랍니다.
+- Prisma(ORM)을 사용했으며, PlanetScale이란 MYSQL 플랫폼을 사용했습니다.
 
 <br>
 
