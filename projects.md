@@ -51,6 +51,10 @@
 
 - 대학교 시절 수강했던 과목들의 과제 코드를 정리해 둔 저장소입니다. 컴퓨터 기초에 관한 다양한 과목을 수강했습니다.
 
+### TIL ([repo](https://github.com/sinclairr08/TIL))
+
+- 매일 매일 배운 내용들을 기록하는 저장소입니다.
+
 ### maple-tools ([repo](https://github.com/sinclairr08/maple-tools))
 
 - Next.js로 개발한 온라인 게임 메이플스토리를 위한 여러 도구를 제공하는 사이트입니다.
