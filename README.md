@@ -1,7 +1,8 @@
-### About Me
+데이터베이스 엔지니어를 꿈꾸는, 만들고 개선하는 것을 좋아하는 개발자입니다.
 
-I am a developer who likes to create and improve
+[이력서](/resume.md)
 
+<!--
 ### Tech Stacks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -14,5 +15,6 @@ I am a developer who likes to create and improve
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@sinclairr)
 [![Projects](https://img.shields.io/badge/Projects-181717?style=flat-square&logo=GitHub&logoColor=white)](projects.md)
+-->
 
 <!-- ![sinclairr08 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinclairr08&layout=compact) -->
