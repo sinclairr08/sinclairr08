@@ -21,7 +21,7 @@ Spring 백엔드 개발을 공부하고 있습니다. 성균관대학교 컴퓨�
 
 ## Skill
 
-- Front-end: Javascript, Vue.js
+- Front-end: Javascript, Vue.js, React
 - Database: MySQL
 - Langugae: Java, Python, C++
 
@@ -56,6 +56,27 @@ Spring 백엔드 개발을 공부하고 있습니다. 성균관대학교 컴퓨�
 - 사용자가 자유롭게 자신의 가게를 등록해서 예약을 받거나 타인의 가게에 예약할 수 있는 사이트
 - Vercel을 이용해 serverless 환경에서 배포
 - OAuth (카카오, 네이버)를 통해 로그인하거나 Guest 모드로 구경 가능
+
+## 클론 코딩
+
+### HTML, CSS, JS
+
+- [HTML + CSS로 카카오톡 클론 코딩](https://github.com/sinclairr08/clone-kakao-html-css)
+- [JavaScript만을 이용한 생산성 앱 개발](https://github.com/sinclairr08/clone-momentum-js)
+
+### Vue, React
+
+- [Vue로 웹게임 개발](https://github.com/sinclairr08/clone-webgame-vue)
+- [React - Trello 클론 코딩](https://github.com/sinclairr08/clone-trello-react)
+- [React - Todolist 클론 코딩](https://github.com/sinclairr08/clone-todolist-react)
+- [React - Coin App 클론 코딩](https://github.com/sinclairr08/clone-coinapp-react)
+- [React - Netflix 클론 코딩](https://github.com/sinclairr08/clone-netflix-react)
+- [NextJS로 당근 마켓 클론 코딩](https://github.com/sinclairr08/clone-carrot-next)
+
+### Spring Boot
+
+- [Spring Boot입문](https://github.com/sinclairr08/clone-spring-intro)
+- [Spring Boot + AWS 입문](https://github.com/sinclairr08/clone-spirngboot-aws)
 
 ## 학력
 
