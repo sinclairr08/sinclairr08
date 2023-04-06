@@ -1,31 +1,51 @@
 # 이력서
 
-## Info
+## 소개
 
-> Spring 백엔드 개발자를 목표로 공부하는 이준혁입니다
+> 아이디어를 구현하는 것을 좋아하는 개발자 이준혁입니다  
+> 백엔드를 목표로 Spring을 공부 중입니다
 
 <p style="text-align: center;">
 <img src="imgs/profile.jpg" height="200" style="margin: auto;" />
 </p>
 
 - 병역필 (현역)
+- 성균관대학교 수학과 / 컴퓨터공학과 졸업 (2014.03 - 2020.02)
 - Mail. ljhjoon00@gmail.com
 - GitHub. https://github.com/sinclairr08
 - Blog. https://github.com/sinclairr08/TIL
 
-## Introduce
-
-Spring 백엔드 개발을 공부하고 있습니다. 성균관대학교 컴퓨터공학과를 졸업했습니다.
-
-성능을 개선하고 반복 작업을 자동화시키는 일에 관심이 있습니다.
-
-## Skill
+## 기술
 
 - Front-end: Javascript, Vue.js, React
-- Database: MySQL
+- Back-end: Spring
 - Langugae: Java, Python, C++
 
-## Projects
+## 공부
+
+### [대학교 과제 코드 모음](https://github.com/sinclairr08/university-courses)
+
+- 대학교에서 수강한 과제들 코드 및 보고서 모음
+
+### [TIL](https://github.com/sinclairr08/university-courses)
+
+- 개인 블로그 역할을 하는 저장소로, 매일매일 공부하고 기록
+- 컴퓨터 과학, 프로그래밍 언어, 프레임워크 등 다양한 내용을 다룸
+
+### [백준 문제 풀이 코드 모음](https://github.com/sinclairr08/baekjoon-online-judge)
+
+- 백준 문제를 풀고 저장해 두는 저장소, 현재는 Java로 연습 중
+
+## 프로젝트
+
+### [e-kivotos](https://github.com/sinclairr08/e-kivotos)
+
+- [page](https://sinclairr08.github.io/e-kivotos/#/)
+- 개발 기간: 2023.02 ~ 현재 (진행 중)
+- 기술 스택: Vue.js + Spring
+- 모바일 게임 `블루 아카이브`의 팬 페이지
+- Vue.js로 프론트엔드, Spring으로 백엔드 구성
+- 지속적인 개발 진행 중
 
 ### [renju-site](https://github.com/sinclairr08/renju-site)
 
@@ -35,7 +55,6 @@ Spring 백엔드 개발을 공부하고 있습니다. 성균관대학교 컴퓨�
 - 과거 Python으로 구현했던 오목 프로그램을 React를 활용해 웹 프론트엔드 페이지로 만든 프로젝트
 - Renju라는 규칙을 따름
 - 앞으로/뒤로 가기, 저장, 초기화 등의 오목을 위한 여러 기능 탑재
-- AWS를 활용해 백엔드 서버를 구축함으로써 컴퓨터와 대전이 가능하게 만들 예정
 
 ### [file-compare](https://github.com/sinclairr08/file-compare)
 
@@ -57,28 +76,24 @@ Spring 백엔드 개발을 공부하고 있습니다. 성균관대학교 컴퓨�
 - Vercel을 이용해 serverless 환경에서 배포
 - OAuth (카카오, 네이버)를 통해 로그인하거나 Guest 모드로 구경 가능
 
-## 클론 코딩
+## 강의 코드 저장소
 
 ### HTML, CSS, JS
 
-- [HTML + CSS로 카카오톡 클론 코딩](https://github.com/sinclairr08/clone-kakao-html-css)
-- [JavaScript만을 이용한 생산성 앱 개발](https://github.com/sinclairr08/clone-momentum-js)
+- [HTML + CSS로 카카오톡 클론 코딩](https://github.com/sinclairr08/clone-kakao-html-css) (2022.01)
+- [JavaScript만을 이용한 생산성 앱 개발](https://github.com/sinclairr08/clone-momentum-js) (2022.01)
 
 ### Vue, React
 
-- [Vue로 웹게임 개발](https://github.com/sinclairr08/clone-webgame-vue)
-- [React - Trello 클론 코딩](https://github.com/sinclairr08/clone-trello-react)
-- [React - Todolist 클론 코딩](https://github.com/sinclairr08/clone-todolist-react)
-- [React - Coin App 클론 코딩](https://github.com/sinclairr08/clone-coinapp-react)
-- [React - Netflix 클론 코딩](https://github.com/sinclairr08/clone-netflix-react)
-- [NextJS로 당근 마켓 클론 코딩](https://github.com/sinclairr08/clone-carrot-next)
+- [React - Trello 실습](https://github.com/sinclairr08/clone-trello-react) (2022.01)
+- [React - Todolist 실습](https://github.com/sinclairr08/clone-todolist-react) (2022.01)
+- [React - Coin App 실습](https://github.com/sinclairr08/clone-coinapp-react) (2022.01)
+- [React - Netflix 실습](https://github.com/sinclairr08/clone-netflix-react) (2022.02)
+- [NextJS로 당근 마켓 실습](https://github.com/sinclairr08/clone-carrot-next) (2022.02 - 2022.04)
+- [Vue로 웹게임 개발](https://github.com/sinclairr08/clone-webgame-vue) (2023.01)
 
 ### Spring Boot
 
-- [Spring Boot입문](https://github.com/sinclairr08/clone-spring-intro)
-- [Spring Boot + AWS 입문](https://github.com/sinclairr08/clone-spirngboot-aws)
-
-## 학력
-
-- 성균관대학교 수학과 / 컴퓨터공학과 졸업 (2014.03 - 2020.02)
-  - [대학교 과제 코드 모음](https://github.com/sinclairr08/university-courses)
+- [Spring 프로젝트 AWS로 배포](https://github.com/sinclairr08/clone-spirngboot-aws) (2022.11 - 2022.12)
+- [Spring 입문](https://github.com/sinclairr08/clone-spring-intro) (2023.01)
+- [Spring 기초 원리](https://github.com/sinclairr08/clone-spring-basic) (2023.03)
