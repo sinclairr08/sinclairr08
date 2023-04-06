@@ -17,22 +17,22 @@
 
 ## 기술
 
-- Front-end: Javascript, Vue.js, React
+- Front-end: Vue.js, React
 - Back-end: Spring
-- Langugae: Java, Python, C++
+- Langugae: Java, Python, C++, Javascript
 
 ## 공부
 
-### [대학교 과제 코드 모음](https://github.com/sinclairr08/university-courses)
+### [대학교 과제 코드](https://github.com/sinclairr08/university-courses)
 
-- 대학교에서 수강한 과제들 코드 및 보고서 모음
+- 대학교에서 수강한 과제들 코드 및 보고서 저장소
 
 ### [TIL](https://github.com/sinclairr08/university-courses)
 
 - 개인 블로그 역할을 하는 저장소로, 매일매일 공부하고 기록
 - 컴퓨터 과학, 프로그래밍 언어, 프레임워크 등 다양한 내용을 다룸
 
-### [백준 문제 풀이 코드 모음](https://github.com/sinclairr08/baekjoon-online-judge)
+### [백준 문제 풀이 코드](https://github.com/sinclairr08/baekjoon-online-judge)
 
 - 백준 문제를 풀고 저장해 두는 저장소, 현재는 Java로 연습 중
 
@@ -45,15 +45,16 @@
 - 기술 스택: Vue.js + Spring
 - 모바일 게임 `블루 아카이브`의 팬 페이지
 - Vue.js로 프론트엔드, Spring으로 백엔드 구성
-- 지속적인 개발 진행 중
+- 블루 아카이브의 인게임 기능을 웹 버전으로 구현하거나 게임 플레이에 도움이 되는 기능 추가 중
+- 지속적인 개발 중
 
 ### [renju-site](https://github.com/sinclairr08/renju-site)
 
 - [page](https://sinclairr08.github.io/renju-site/)
 - 개발 기간: 2022.08 - 2022.09
 - 기술 스택: React
-- 과거 Python으로 구현했던 오목 프로그램을 React를 활용해 웹 프론트엔드 페이지로 만든 프로젝트
-- Renju라는 규칙을 따름
+- 오목 프로그램을 React를 활용해 웹 프론트엔드 페이지로 만든 프로젝트
+- Renju라는 규칙을 따라 오목을 둘 수 있도록 구현
 - 앞으로/뒤로 가기, 저장, 초기화 등의 오목을 위한 여러 기능 탑재
 
 ### [file-compare](https://github.com/sinclairr08/file-compare)
@@ -70,13 +71,13 @@
 - [page](https://reservation-site.vercel.app/)
 - 개발 기간: 2022.04 - 2022.06
 - 기술 스택: Next.js, Prisma, PlanetScale
-- 역할: API 설계, DB 관리, 배포 및 프로젝트 전반 관리
+- 역할: API 설계, DB 관리, 배포, 로그인 오류 해결
 - Next.js, Prisma(ORM), PlanetScale(MYSQL 플랫폼) 사용
 - 사용자가 자유롭게 자신의 가게를 등록해서 예약을 받거나 타인의 가게에 예약할 수 있는 사이트
 - Vercel을 이용해 serverless 환경에서 배포
 - OAuth (카카오, 네이버)를 통해 로그인하거나 Guest 모드로 구경 가능
 
-## 강의 코드 저장소
+## 수강한 강의 (클론 코딩)
 
 ### HTML, CSS, JS
 
