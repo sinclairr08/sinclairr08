@@ -100,5 +100,6 @@
 
 - [Spring 프로젝트 AWS로 배포](https://github.com/sinclairr08/clone-spirngboot-aws) (2022.11 - 2022.12)
 - [Spring 입문](https://github.com/sinclairr08/clone-spring-intro) (2023.01)
+  - [강의 후기](https://github.com/sinclairr08/TIL/blob/master/contents/2023-04/2023-04-10.md)
 - [Spring 핵심 원리 기본편](https://github.com/sinclairr08/clone-spring-basic) (2023.03)
-  - [배운 것](https://github.com/sinclairr08/TIL/blob/master/contents/2023-04/2023-04-09.md)
+  - [강의 후기](https://github.com/sinclairr08/TIL/blob/master/contents/2023-04/2023-04-09.md)
