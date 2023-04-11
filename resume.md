@@ -96,9 +96,10 @@
 - [NextJS로 당근 마켓 실습](https://github.com/sinclairr08/clone-carrot-next) (2022.02 - 2022.04)
 - [Vue로 웹게임 개발](https://github.com/sinclairr08/clone-webgame-vue) (2023.01)
 
-### Spring Boot
+### Spring
 
-- [Spring 프로젝트 AWS로 배포](https://github.com/sinclairr08/clone-spirngboot-aws) (2022.11 - 2022.12)
+- [Spring AWS로 배포](https://github.com/sinclairr08/clone-spirng-aws) (2022.11 - 2022.12)
+  - [책 후기](https://github.com/sinclairr08/TIL/blob/master/contents/2023-04/2023-04-11.md)
 - [Spring 입문](https://github.com/sinclairr08/clone-spring-intro) (2023.01)
   - [강의 후기](https://github.com/sinclairr08/TIL/blob/master/contents/2023-04/2023-04-10.md)
 - [Spring 핵심 원리 기본편](https://github.com/sinclairr08/clone-spring-basic) (2023.03)
