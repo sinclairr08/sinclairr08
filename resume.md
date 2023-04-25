@@ -104,3 +104,5 @@
   - [강의 후기](https://github.com/sinclairr08/TIL/blob/master/contents/2023-04/2023-04-10.md)
 - [Spring 핵심 원리 기본편](https://github.com/sinclairr08/clone-spring-basic) (2023.03)
   - [강의 후기](https://github.com/sinclairr08/TIL/blob/master/contents/2023-04/2023-04-09.md)
+- [Spring JPA 활용편 1](https://github.com/sinclairr08/clone-spring-jpa1) (2023.04)
+  - [강의 후기](https://github.com/sinclairr08/TIL/blob/master/contents/2023-04/2023-04-25.md)
