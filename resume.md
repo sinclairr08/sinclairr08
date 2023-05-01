@@ -2,9 +2,9 @@
 
 ## 소개
 
-- 아이디어를 구현하는 것을 좋아하는 개발자 이준혁입니다
-- 작은 기능부터 시작해서 점점 기능을 추가하며 개발하는 것을 즐깁니다
-- 현재는 Spring에 매료되어 공부 중입니다
+- 아이디어를 현실로 만드는 것을 좋아하는 개발자 이준혁입니다
+- 작은 기능부터 점점 발전하며 개발하는 것을 즐깁니다
+- 서버 개발자를 목표로 Spring 및 CS 지식을 공부하고 있습니다
 
 <p style="text-align: center;">
 <img src="imgs/profile.jpg" height="200" style="margin: auto;" />
@@ -13,7 +13,6 @@
 ## 연락처 및 정보
 
 - 병역필 (현역)
-- 성균관대학교 수학과 / 컴퓨터공학과 졸업 (2014.03 - 2020.02)
 - Mail. ljhjoon00@gmail.com
 - GitHub. https://github.com/sinclairr08
 - Blog. https://github.com/sinclairr08/TIL
